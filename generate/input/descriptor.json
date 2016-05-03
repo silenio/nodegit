@@ -53,6 +53,10 @@
       "owner": "Object",
       "removeString": "OBJ_"
     },
+    "proxy": {
+      "JsName": "PROXY",
+      "isMask": false
+    },
     "ref": {
       "owner": "Reference",
       "JsName": "TYPE"
@@ -1272,6 +1276,9 @@
           "ignore": true
         }
       }
+    },
+    "merge_driver": {
+      "ignore": true
     },
     "message": {
       "functions": {
