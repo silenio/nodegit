@@ -451,6 +451,7 @@
       "target_name": "libssh2",
       "type": "static_library",
       "defines": [
+      	"LIBSSH2_OPENSSL",
         "NETSNMP_ENABLE_IPV6"
       ],
       "sources": [
